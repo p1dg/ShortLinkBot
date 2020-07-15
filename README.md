@@ -11,7 +11,7 @@
 
 ## Start
 
-`Before start, you need to create file settings.py which contains `
+### Before start, you need to create file settings.py which contains 
 
 `import os`
 
@@ -21,5 +21,7 @@
 }`
 
 `config = _config`
+
+### Than type in console
 
 `python3 bot.py`
